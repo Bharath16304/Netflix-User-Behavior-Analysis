@@ -23,3 +23,6 @@ See `requirements.txt`.
 - `genre`: Content genre  
 - `watch_hours`: Total watch hours  
 - `rating`: User rating  
+
+## Output
+See `Output Folder`
